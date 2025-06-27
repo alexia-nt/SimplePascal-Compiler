@@ -1,2 +1,2 @@
 # SimplePascal-Compiler
-lex/yacc simple pascal compiler
+This is a simple lex/yacc pascal compiler.
